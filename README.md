@@ -25,12 +25,41 @@
 - [Leveraging the Value of CDISC SEND Data Sets for Cross-Study Analysis: Incidence of Microscopic Findings in Control Animals](https://pubs.acs.org/doi/10.1021/acs.chemrestox.0c00317)
 - [SEND harmonization & cross-study analysis: A proposal to better harvest the value from SEND data](https://www.sciencedirect.com/science/article/pii/S027323001930306X?via%3Dihub)
 
+- [Specific pathologist responses for Standard for Exchange of Nonclinical Data (SEND)](https://www.jstage.jst.go.jp/article/tox/30/3/30_2017-0019/_article)
+- [Regulatory Forum Commentary*: Through the Looking Glass SENDing the Pathology Data We Have INHAND](https://journals.sagepub.com/doi/10.1177/0192623313485451?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)
+
+- [Data Standardization, Pharmaceutical Drug Development, and the 3Rs ](https://academic.oup.com/ilarjournal/article/57/2/109/2806926)
+
+- [Graphical display of histopathology data from toxicology studies for drug discovery and development: An industry perspective](https://www.sciencedirect.com/science/article/pii/S0273230016302987?via%3Dihub#bbib1)
+
+## PHUSE Working Groups
+- [Nonclinical Topics](https://advance.phuse.global/display/WEL/Nonclinical+Topics)
+
 ## Books
 
 
 ## Blogs
 - [sensiblesend from Marc Ellison](https://sensiblesend.blog/)
 
+- [SEND Dataset QC: Best Practices & Recommendations](https://www.pinnacle21.com/blog/best-practices-recommendations-send-dataset-qc)
+- [Understanding CDISC SEND Data and How to Be Compliant](https://www.allucent.com/resources/blog/understanding-cdisc-send-data-and-how-be-compliant)
+- [Non-Clinical (SEND) Reference Guide for Clinical (SDTM) Programmers](https://www.lexjansen.com/pharmasug/2019/SS/PharmaSUG-2019-SS-317.pdf)
+- [Using NCI controlled terminology for standardizing data](https://blog.formedix.com/using-nci-controlled-terminology-for-standardizing-data)
+- []()
+- []()
+- []()
+
 ## YouTube
 - [Overview of Non-clinical Assessment in Drug Development](https://www.youtube.com/watch?v=oG1_NYcgy3c&ab_channel=U.S.FoodandDrugAdministration)
 - [Most Common Issues with CDISC-SEND Data in FDA Toxicology Review](https://www.youtube.com/watch?v=-PibvzF2p4Y&ab_channel=U.S.FoodandDrugAdministration)
+- [Get Ready for CDISC SEND](https://www.youtube.com/watch?v=Zs7-iMCVyw0&ab_channel=Certara)
+
+- [Leveraging CDISC SEND Data Sets for Study Analyses](https://www.youtube.com/watch?v=NqCjcXT6eyk&ab_channel=TransCelerateBioPharma)
+
+## presentations
+
+- [Submitting Data to CDER:
+Requirements for your Application](https://www.fda.gov/media/160958/download)
+
+- [FDA Study Data Technical Rejection Criteria (TRC):
+What you need to know!](https://www.fda.gov/media/160967/download)
