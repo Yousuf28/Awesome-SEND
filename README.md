@@ -7,16 +7,16 @@
 
 ## Tools
 
-- [sendigR](https://github.com/phuse-org/sendigR) - Enable Cross-Study Analysis of 'CDISC' 'SEND' Datasets
+- [sendigR](https://github.com/phuse-org/sendigR) - Enable Cross-Study Analysis of CDISC SEND Datasets
 - [SENDsanitizer](https://github.com/sbutler5/SENDsanitizer)
 - [xptcleaner](https://pypi.org/project/xptcleaner/)
 - [haven](https://github.com/tidyverse/haven)
 - [read xpt file](https://haven.tidyverse.org/reference/read_xpt.html)
 
 ## Guidance
- [FDA Guidance - Estimating the Maximum Safe Starting Dose in Initial Clinical Trials for Therapeutics in Adult Healthy Volunteers](https://www.fda.gov/media/72309/download)
+- [FDA Guidance - Estimating the Maximum Safe Starting Dose in Initial Clinical Trials for Therapeutics in Adult Healthy Volunteers](https://www.fda.gov/media/72309/download)
 
-- [ICH - GUIDANCE ON NONCLINICAL SAFETY STUDIES FOR THE CONDUCT OF HUMAN CLINICAL TRIALS AND MARKETING AUTHORIZATION FOR PHARMACEUTICAL M3(R2)](https://database.ich.org/sites/default/files/M3_R2__Guideline.pdf)
+- [ICH - guidance on nonclinical safety studies for the conduct of human clinical trials and marketing authorization for pharmaceutical M3(R2)](https://database.ich.org/sites/default/files/M3_R2__Guideline.pdf)
 - [FDA - M3(R2) Nonclinical Safety Studies for the Conduct of Human Clinical Trials and Marketing Authorization for Pharmaceuticals](https://www.fda.gov/media/71542/download)
 
 #### SEND Related paper
