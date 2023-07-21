@@ -32,6 +32,8 @@
 
 - [Graphical display of histopathology data from toxicology studies for drug discovery and development: An industry perspective](https://www.sciencedirect.com/science/article/pii/S0273230016302987?via%3Dihub#bbib1)
 
+- [The Evolution of SEND at AstraZeneca](https://pubmed.ncbi.nlm.nih.gov/33974947/)
+
 ## PHUSE Working Groups
 - [Nonclinical Topics](https://advance.phuse.global/display/WEL/Nonclinical+Topics)
 
@@ -63,3 +65,12 @@ Requirements for your Application](https://www.fda.gov/media/160958/download)
 
 - [FDA Study Data Technical Rejection Criteria (TRC):
 What you need to know!](https://www.fda.gov/media/160967/download)
+
+
+## INHAND
+
+
+- [Nomenclature: INHAND publications](https://www.goreni.org/gr3_nom_inhand_publ.php)
+- [International Harmonization of Nomenclature and Diagnostic Criteria (INHAND) progress to date and future plans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337500/)
+
+- [Proliferative and Nonproliferative Lesions of the Rat and Mouse Central and Peripheral Nervous Systems: New and Revised INHAND Terms](https://journals.sagepub.com/doi/full/10.1177/0192623320951154)
