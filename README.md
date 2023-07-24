@@ -38,6 +38,7 @@
 - [Nonclinical Topics](https://advance.phuse.global/display/WEL/Nonclinical+Topics)
 
 ## Books
+- [A Comprehensive Guide to Toxicology in Nonclinical Drug Development](https://www.sciencedirect.com/book/9780128036204/a-comprehensive-guide-to-toxicology-in-nonclinical-drug-development)
 
 
 ## Blogs
@@ -66,6 +67,12 @@ Requirements for your Application](https://www.fda.gov/media/160958/download)
 - [FDA Study Data Technical Rejection Criteria (TRC):
 What you need to know!](https://www.fda.gov/media/160967/download)
 
+## Conferences 
+
+- [American College of Toxicology(ACT)](http://www.actox.org/index.asp)
+- [Society of Toxicology(SOT)](https://www.toxicology.org/events/am/AM2023/index.asp)
+- [phuse](https://phuse.global/)
+- [R in Pharma](https://rinpharma.com/)
 
 ## INHAND
 
