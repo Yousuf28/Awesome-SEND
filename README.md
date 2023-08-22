@@ -58,7 +58,9 @@
 - [Get Ready for CDISC SEND](https://www.youtube.com/watch?v=Zs7-iMCVyw0&ab_channel=Certara)
 
 - [Leveraging CDISC SEND Data Sets for Study Analyses](https://www.youtube.com/watch?v=NqCjcXT6eyk&ab_channel=TransCelerateBioPharma)
-
+- [Certara SEND Webinar Series Session #1](https://www.youtube.com/watch?v=EX4fxdNEZZo&t=2212s&ab_channel=Certara)
+- [Data Visualization with SEND Data to See What Happened at the Preclinical Phase](https://www.youtube.com/watch?v=c_pj5ybSbJo&ab_channel=Certara)
+- [What's New for SEND 2023 Webinar](https://www.youtube.com/watch?v=R8O9yDydLPc&ab_channel=Certara)
 ## presentations
 
 - [Submitting Data to CDER:
