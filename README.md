@@ -60,6 +60,8 @@
 - [Toxicological Sciences from SOT](https://academic.oup.com/toxsci)
 - [International Journal of Toxicology (IJT) form ACT](https://www.actox.org/journal/about.asp)
 - [Regulatory Toxicology and Pharmacology](https://www.sciencedirect.com/journal/regulatory-toxicology-and-pharmacology)
+- [Toxicologic Pathology](https://journals.sagepub.com/home/TPX)
+- [Journal of Toxicologic Pathology](https://www.jstage.jst.go.jp/browse/tox/-char/en)
 - [Toxicology and Applied Pharmacology](https://www.sciencedirect.com/journal/toxicology-and-applied-pharmacology)
 - [Frontiers in Toxicology](https://www.frontiersin.org/journals/toxicology)
 - [Chemical Research in Toxicology ACS](https://pubs.acs.org/journal/crtoec) 
