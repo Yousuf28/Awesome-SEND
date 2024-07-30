@@ -9,9 +9,29 @@
 
 - [sendigR](https://github.com/phuse-org/sendigR) - Enable Cross-Study Analysis of CDISC SEND Datasets
 - [SENDsanitizer](https://github.com/sbutler5/SENDsanitizer)
-- [xptcleaner](https://pypi.org/project/xptcleaner/)
+- [xptcleaner](https://pypi.org/project/xptcleaner/)  
+
+### reading  and writing xpt file in R  
+
 - [haven](https://github.com/tidyverse/haven)
-- [read xpt file](https://haven.tidyverse.org/reference/read_xpt.html)
+- [read and write xpt file with haven](https://haven.tidyverse.org/reference/read_xpt.html)
+- [Hmisc::sasxport.get()](https://github.com/harrelfe/Hmisc)
+- [SASxport::read.xport() and SASxport::write.xport()](https://github.com/r-gregmisc/SASxport)
+- [foreign::read.xport()](https://cran.r-project.org/web/packages/foreign/index.html)
+
+
+### reading  and writing xpt file in python  
+
+- [pandas.read_sas](https://pandas.pydata.org/docs/reference/api/pandas.read_sas.html)
+- [xport](https://github.com/selik/xport)
+- [pyreadstat](https://github.com/Roche/pyreadstat)
+
+
+### reading  and writing xpt file in C  
+
+- [ReadStat_command_Line](https://github.com/WizardMac/ReadStat/)
+
+- [Generating .XPT Files With SAS, R and Python_youtube_](https://www.youtube.com/watch?v=L-A5POEU-JE)
 
 ## Guidance
 - [FDA Guidance - Estimating the Maximum Safe Starting Dose in Initial Clinical Trials for Therapeutics in Adult Healthy Volunteers](https://www.fda.gov/media/72309/download)
@@ -19,7 +39,9 @@
 - [ICH - guidance on nonclinical safety studies for the conduct of human clinical trials and marketing authorization for pharmaceutical M3(R2)](https://database.ich.org/sites/default/files/M3_R2__Guideline.pdf)
 - [FDA - M3(R2) Nonclinical Safety Studies for the Conduct of Human Clinical Trials and Marketing Authorization for Pharmaceuticals](https://www.fda.gov/media/71542/download)
 
-#### SEND Related paper
+#### SEND Related journal articles
+- [Cross study analyses of SEND data: toxicity profile classification](https://academic.oup.com/toxsci/article/200/2/277/7690167)
+- [sendigR: an R package to leverage the value of CDISC SEND datasets for cross-study analysis](https://www.frontiersin.org/journals/toxicology/articles/10.3389/ftox.2024.1392686/full)
 - [Making sense of SEND; the Standard for Exchange of Nonclinical Data](https://pubmed.ncbi.nlm.nih.gov/29066334/)
 - [The Standard for the Exchange of Nonclinical Data (SEND): Challenges and Promises](https://pubmed.ncbi.nlm.nih.gov/30295163/)
 - [Leveraging the Value of CDISC SEND Data Sets for Cross-Study Analysis: Incidence of Microscopic Findings in Control Animals](https://pubs.acs.org/doi/10.1021/acs.chemrestox.0c00317)
@@ -33,6 +55,21 @@
 - [Graphical display of histopathology data from toxicology studies for drug discovery and development: An industry perspective](https://www.sciencedirect.com/science/article/pii/S0273230016302987?via%3Dihub#bbib1)
 
 - [The Evolution of SEND at AstraZeneca](https://pubmed.ncbi.nlm.nih.gov/33974947/)
+
+## journals list
+- [Toxicological Sciences from SOT](https://academic.oup.com/toxsci)
+- [International Journal of Toxicology (IJT) form ACT](https://www.actox.org/journal/about.asp)
+- [Regulatory Toxicology and Pharmacology](https://www.sciencedirect.com/journal/regulatory-toxicology-and-pharmacology)
+- [Toxicology and Applied Pharmacology](https://www.sciencedirect.com/journal/toxicology-and-applied-pharmacology)
+- [Frontiers in Toxicology](https://www.frontiersin.org/journals/toxicology)
+- [Chemical Research in Toxicology ACS](https://pubs.acs.org/journal/crtoec) 
+- [Clinical Toxicology](https://www.tandfonline.com/journals/ictx20)
+- [Critical Reviews in Toxicology](https://www.tandfonline.com/journals/itxc20)
+- [Trends in Pharmacological Sciences](https://www.cell.com/trends/pharmacological-sciences/home)
+- [Annual Review of Pharmacology and Toxicology](https://www.annualreviews.org/content/journals/pharmtox)
+- [Reproductive Toxicology](https://www.sciencedirect.com/journal/reproductive-toxicology)
+- [Neurotoxicity Research](https://link.springer.com/journal/12640)
+- [Cardiovascular Toxicology](https://link.springer.com/journal/12012)
 
 ## PHUSE Working Groups
 - [Nonclinical Topics](https://advance.phuse.global/display/WEL/Nonclinical+Topics)
@@ -61,7 +98,10 @@
 - [Certara SEND Webinar Series Session #1](https://www.youtube.com/watch?v=EX4fxdNEZZo&t=2212s&ab_channel=Certara)
 - [Data Visualization with SEND Data to See What Happened at the Preclinical Phase](https://www.youtube.com/watch?v=c_pj5ybSbJo&ab_channel=Certara)
 - [What's New for SEND 2023 Webinar](https://www.youtube.com/watch?v=R8O9yDydLPc&ab_channel=Certara)
-## presentations
+- [Best Practices for SEND Dataset Quality Control_https://www.pinnacle21.com/blog](https://www.pinnacle21.com/blog/best-practices-recommendations-send-dataset-qc)  
+
+## presentation
+
 
 - [Submitting Data to CDER:
 Requirements for your Application](https://www.fda.gov/media/160958/download)
