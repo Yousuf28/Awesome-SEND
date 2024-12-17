@@ -72,6 +72,7 @@
 - [Reproductive Toxicology](https://www.sciencedirect.com/journal/reproductive-toxicology)
 - [Neurotoxicity Research](https://link.springer.com/journal/12640)
 - [Cardiovascular Toxicology](https://link.springer.com/journal/12012)
+- [ALTEX](https://www.altex.org/index.php/altex)
 
 ## PHUSE Working Groups
 - [Nonclinical Topics](https://advance.phuse.global/display/WEL/Nonclinical+Topics)
@@ -125,3 +126,6 @@ What you need to know!](https://www.fda.gov/media/160967/download)
 - [International Harmonization of Nomenclature and Diagnostic Criteria (INHAND) progress to date and future plans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337500/)
 
 - [Proliferative and Nonproliferative Lesions of the Rat and Mouse Central and Peripheral Nervous Systems: New and Revised INHAND Terms](https://journals.sagepub.com/doi/full/10.1177/0192623320951154)
+- [link](j.html)
+
+test
