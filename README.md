@@ -3,7 +3,7 @@
 
 ## Links
 - [CDISC](https://www.cdisc.org/standards/foundational/send)
-
+- [SENDIG](https://github.com/Yousuf28/Awesome-SEND/blob/main/paper/SENDIG_v3.1.1.pdf)
 
 ## Tools
 
