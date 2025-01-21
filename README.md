@@ -11,13 +11,13 @@
 note: HTML version created using Adobe from PDF version
 
 ### SENDIG online version (html)
-[DM](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark175)
-[BW](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark271)
-[LB](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark288)
-[MI](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark294)
-[OM](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark297)
-[TX](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark378)
-[TS](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark389)
+- [DM](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark175)
+- [BW](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark271)
+- [LB](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark288)
+- [MI](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark294)
+- [OM](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark297)
+- [TX](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark378)
+- [TS](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark389)
 
 
 ## Tools
