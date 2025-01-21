@@ -4,7 +4,9 @@
 ## Links
 - [CDISC](https://www.cdisc.org/standards/foundational/send)
 - [SENDIG_download_pdf](https://github.com/Yousuf28/Awesome-SEND/blob/main/paper/SENDIG_v3.1.1.pdf)
-- [view in website](https://github.com/Yousuf28/Awesome-SEND/blob/main/paper/SENDIG_v3.1.1.html)
+- [View SENDIG in html mode](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html)
+
+note: HTML version created using Adobe
 
 ## Tools
 
