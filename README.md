@@ -3,10 +3,22 @@
 
 ## Links
 - [CDISC](https://www.cdisc.org/standards/foundational/send)
+
+## SENDIG
 - [SENDIG_download_pdf](https://github.com/Yousuf28/Awesome-SEND/blob/main/paper/SENDIG_v3.1.1.pdf)
 - [View SENDIG in html mode](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html)
 
-note: HTML version created using Adobe
+note: HTML version created using Adobe from PDF version
+
+### SENDIG online version (html)
+[DM](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark175)
+[BW](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark271)
+[LB](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark288)
+[MI](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark294)
+[OM](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark297)
+[TX](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark378)
+[TS](https://yousuf28.github.io/Awesome-SEND/paper/SENDIG_v3.1.1.html#bookmark389)
+
 
 ## Tools
 
@@ -141,3 +153,4 @@ test
 - [Change Trends of Organ Weight Background Data in Sprague Dawley Rats at Different Ages](https://pmc.ncbi.nlm.nih.gov/articles/PMC3620211/)
 - [The relationship between chemical-induced kidney weight increases and kidney histopathology in rats](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.3036)
 - [Use of Lung Weight as Biomarker for Assessment of Lung Toxicity in Rat Inhalation Studies](https://journals.sagepub.com/doi/10.1177/0192623312470763?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+
