@@ -3,7 +3,8 @@
 
 ## Links
 - [CDISC](https://www.cdisc.org/standards/foundational/send)
-- [SENDIG](https://github.com/Yousuf28/Awesome-SEND/blob/main/paper/SENDIG_v3.1.1.pdf)
+- [SENDIG_download_pdf](https://github.com/Yousuf28/Awesome-SEND/blob/main/paper/SENDIG_v3.1.1.pdf)
+- [view in website](https://github.com/Yousuf28/Awesome-SEND/blob/main/paper/SENDIG_v3.1.1.html)
 
 ## Tools
 
@@ -129,3 +130,12 @@ What you need to know!](https://www.fda.gov/media/160967/download)
 - [link](j.html)
 
 test
+
+## Domain specific journal paper
+
+### OM (Organ Measurement)
+- [Society of Toxicologic Pathology Position Paper: Organ Weight Recommendations for Toxicology Studies](https://journals.sagepub.com/doi/full/10.1080/01926230701595300)
+- [A note on statistical analysis of organ weights in non-clinical toxicological studies](https://www.sciencedirect.com/science/article/pii/S0041008X09002609?via%3Dihub)
+- [Change Trends of Organ Weight Background Data in Sprague Dawley Rats at Different Ages](https://pmc.ncbi.nlm.nih.gov/articles/PMC3620211/)
+- [The relationship between chemical-induced kidney weight increases and kidney histopathology in rats](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.3036)
+- [Use of Lung Weight as Biomarker for Assessment of Lung Toxicity in Rat Inhalation Studies](https://journals.sagepub.com/doi/10.1177/0192623312470763?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
