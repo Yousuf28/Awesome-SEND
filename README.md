@@ -147,3 +147,8 @@ test
 - [Change Trends of Organ Weight Background Data in Sprague Dawley Rats at Different Ages](https://pmc.ncbi.nlm.nih.gov/articles/PMC3620211/)
 - [The relationship between chemical-induced kidney weight increases and kidney histopathology in rats](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.3036)
 - [Use of Lung Weight as Biomarker for Assessment of Lung Toxicity in Rat Inhalation Studies](https://journals.sagepub.com/doi/10.1177/0192623312470763?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+
+## ectd (common technical document)
+- [ctd ICH](https://www.ich.org/page/ctd)
+- [ctd safety pdf](https://database.ich.org/sites/default/files/M4S_R2_Guideline.pdf)
+- [FDA ectd](https://www.fda.gov/drugs/electronic-regulatory-submission-and-review/ectd-submission-standards-ectd-v40-and-regional-m1#submission)
