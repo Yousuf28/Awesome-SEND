@@ -86,7 +86,7 @@ note: HTML version created using Adobe from PDF version
 - [ALTEX](https://www.altex.org/index.php/altex)
 
 ## PHUSE Working Groups
-- [Nonclinical Topics](https://advance.phuse.global/display/WEL/Nonclinical+Topics)
+- [Nonclinical Topics](https://advance.hub.phuse.global/wiki/spaces/WEL/pages/26804586/Nonclinical+Topics)
 
 ## Books
 - [A Comprehensive Guide to Toxicology in Nonclinical Drug Development](https://www.sciencedirect.com/book/9780128036204/a-comprehensive-guide-to-toxicology-in-nonclinical-drug-development)
