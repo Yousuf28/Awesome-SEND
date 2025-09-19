@@ -153,4 +153,6 @@ test
 ## ectd (common technical document)
 - [ctd ICH](https://www.ich.org/page/ctd)
 - [ctd safety pdf](https://database.ich.org/sites/default/files/M4S_R2_Guideline.pdf)
-- [FDA ectd](https://www.fda.gov/drugs/electronic-regulatory-submission-and-review/ectd-submission-standards-ectd-v40-and-regional-m1#submission)
+- [FDA ectd](https://www.fda.gov/drugs/electronic-regulatory-submission-and-review/ectd-submission-standards-ectd-v40-and-regional-m1#submission)  
+- [STUDY DATA TECHNICAL CONFORMANCE GUIDE](https://www.fda.gov/media/153632/download)
+- 
